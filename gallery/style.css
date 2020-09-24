@@ -36,6 +36,14 @@ html {
     left: 1100px;
 }
 
+#p2 {
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+    width: 60px;
+    height: auto;
+}
+
 #p3 {
     padding: -50px;
     margin: 30px;
@@ -45,10 +53,3 @@ html {
 
 }
 
-#p2 {
-    padding: 20px;
-    margin: 20px;
-    position: absolute;
-    width: 60px;
-    height: auto;
-}
