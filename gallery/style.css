@@ -31,10 +31,10 @@ html {
 }
 
 #p3{
-    padding: 5px;
-    margin: 5px;
+    padding: -5px;
+    margin: -5px;
     position: absolute;
     size: 50px;
     top: 30px;
-    left: 100px;
+    left: 40px;
 }
