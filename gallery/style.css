@@ -6,9 +6,7 @@ html {
 
 
 
-}
-
-#page-title{
+#page-title {
     text-align: right;
     font-family: 'Luminari', fantasy;
     font-size: 50px;
@@ -24,7 +22,7 @@ html {
     padding: 40px;
 }
 
-#p1{
+#p1 {
     padding: 10px;
     margin: 10px;
     position: absolute;
@@ -33,7 +31,7 @@ html {
     left: 1100px;
 }
 
-#p2{
+#p2 {
     padding: 10px;
     margin: 10px;
     position: absolute;
@@ -42,7 +40,7 @@ html {
 
 }
 
-#p3{
+#p3 {
     padding: -5px;
     margin: -5px;
     position: absolute;
