@@ -7,7 +7,7 @@ html {
 
 
 #page-title {
-    text-align: right;
+    text-align: top, right;
     font-family: 'Luminari', fantasy;
     font-size: 50px;
     padding: 50px;
