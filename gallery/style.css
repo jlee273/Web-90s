@@ -9,7 +9,7 @@ html {
     width: 100%;
     display: flex;
   }
-  
+
 #page-title {
     text-align: top, right;
     font-family: 'Luminari', fantasy;
@@ -36,7 +36,7 @@ html {
     left: 1100px;
 }
 
-#p2 {
+#p3 {
     padding: -50px;
     margin: 30px;
     position: absolute;
@@ -45,7 +45,7 @@ html {
 
 }
 
-#p3 {
+#p2 {
     padding: 20px;
     margin: 20px;
     position: absolute;
