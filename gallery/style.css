@@ -1,0 +1,79 @@
+html {
+    font-family: 'Luminari', fantasy;
+    background-color: lightblue;
+    color: black;
+    padding: 50px;
+}
+
+#page-title{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    color: black;
+}
+
+#p1{
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    max-width: 10%;
+    top: 50px;
+    left: 1100px;
+}
+
+#p2{
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+
+}
+
+#p3{
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+=======
+html {
+    font-family: 'Luminari', fantasy;
+    background-color: lightblue;
+    color: black;
+    padding: 50px;
+}
+
+#page-title{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    color: black;
+}
+
+#p1{
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    max-width: 10%;
+    top: 50px;
+    left: 1100px;
+}
+
+#p2{
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+
+}
+
+#p3{
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
