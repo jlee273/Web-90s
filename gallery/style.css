@@ -1,5 +1,4 @@
 html {
-    font-family: 'Luminari', fantasy;
     background-color: lightblue;
     color: black;
     padding: 50px;
@@ -10,7 +9,8 @@ html {
 }
 
 #page-title{
-    text-align: center;
+    text-align: right;
+    font-family: 'Luminari', fantasy;
     font-size: 50px;
     padding: 50px;
     color: black;
