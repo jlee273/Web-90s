@@ -5,7 +5,11 @@ html {
 }
 
 
-
+.row {
+    width: 100%;
+    display: flex;
+  }
+  
 #page-title {
     text-align: top, right;
     font-family: 'Luminari', fantasy;
