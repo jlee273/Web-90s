@@ -40,8 +40,10 @@ html {
     padding: 20px;
     margin: 20px;
     position: absolute;
-    width: 60px;
-    height: auto;
+    max-width: 10%;
+    bottom: -100px;
+    left: 0px;
+}
 }
 
 #p3 {
