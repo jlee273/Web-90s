@@ -84,8 +84,7 @@
     padding: 100px;
     margin: 100px;
     position: absolute;
-    width: 50px;
     left: 0px;
-    bottom: -100px;
-    height: auto;
+    bottom: 0px;
+    
 }
