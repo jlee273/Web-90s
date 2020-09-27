@@ -1,6 +1,6 @@
 html {
     background-color: blue;
-    linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background-color: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     padding: 50px;
 }
 
@@ -14,7 +14,7 @@ html {
       height: 40ox;
       width: 400px;
       border: 1px solid #1b5ac2;
-      backgorund: #ffffff;
+      background: #ffffff;
   }
 
 #placeholder {
@@ -46,7 +46,7 @@ html {
     text-align: right;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    color: blue;
+    color:white;
     position: absolute;
     padding: 40px;
 }
