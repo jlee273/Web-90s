@@ -37,12 +37,12 @@ html {
 }
 
 #p2 {
-    padding: 20px;
-    margin: 20px;
+    padding: 250px;
+    margin: 250px;
     position: absolute;
     max-width: 10%;
     bottom: -100px;
-    left: 0px;
+    left: 1100px;
 }
 }
 
