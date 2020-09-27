@@ -72,9 +72,10 @@ html {
 }
 
 #p3 {
-   position: absolute;
-   bottom: 50px
-   right: -1100px;
+    position: absolute;
+    left: 700px;
+    bottom: 50px;
+
 }
 
 #p4 {
