@@ -3,11 +3,13 @@ html {
 }
 
 div {
-    background-color: blue
+    background: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 body {
+    background: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     background-color: blue;
-    padding: 100px;
+    padding: auto;
+    height: auto;
     position: absolute;
 }
 
@@ -63,7 +65,7 @@ body {
     text-align: left, top;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    color: black;
+    color: white;
     position: absolute;
     padding: 40px;
 }
