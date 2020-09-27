@@ -49,7 +49,7 @@ html {
     left: 0px;
     padding: 10px;
 }
-
+.p
 #text {
     text-align: left, top;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -58,6 +58,8 @@ html {
     position: absolute;
     padding: 48px;
 }
+
+
 
 #p1 {
     padding: 10px;
