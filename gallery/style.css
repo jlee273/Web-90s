@@ -1,5 +1,5 @@
 .html {
-    background color: blue;
+    background-color: blue;
     background: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     padding: 100px;
     position: absolute;
@@ -46,7 +46,8 @@
 }
 
 #audio {
-    text-align: top, left;
+    top: 0px;
+    left: 0px;
     padding: 10px;
 }
 #text {
