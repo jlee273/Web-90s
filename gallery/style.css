@@ -1,6 +1,5 @@
 html {
-    
-    background-color: lightblue;
+    background-image: url(background.jpg)
     color: black;
     padding: 50px;
 }
@@ -62,24 +61,20 @@ html {
 }
 
 #p2 {
-    align-items: baseline;
+    position: absolute;
+    bottom: 100px;
+    right: 16px;
     padding: 250px;
     margin: 250px;
     position: absolute;
     max-width: 10%;
-    bottom: -100px;
-    left: 1100px;
+    
 }
 
 #p3 {
-    image size: 10px;
-    text align: bottom;
-    padding: 0px;
-    margin: 30px;
-    position: absolute;
-    width: 10px;
-    height: auto;
-
+   position: absolute;
+   bottom: 8px;
+   right: 16px;
 }
 
 #p4 {
