@@ -67,14 +67,14 @@ html {
     position: absolute;
     max-width: 10%;
     bottom: -100px;
-    left: -1100px;
+    left: -1800px;
 }
 
 #p2 {
     position: absolute;
     right: 100px;
     bottom: -500px;
-    left: -1100px;
+    left: -1800px;
     width: auto;
     height: auto;
     
@@ -84,7 +84,7 @@ html {
     position: absolute;
     right: 100px;
     top: 10px;
-    left: -1100px;
+    left: -1800px;
     width: auto;
     height: auto;
 }
@@ -92,7 +92,7 @@ html {
 #p6 { 
     position: absolute;
     bottom: -200px;
-    left: -1100px;
+    left: -1800px;
     width: auto;
     height: auto;
 }
