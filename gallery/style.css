@@ -94,5 +94,5 @@
     padding: 20px;
     bottom: -200px;
     width: 100%;
-    position: fixed;
+    position: absolute;
 }
