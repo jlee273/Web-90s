@@ -1,4 +1,4 @@
-html {
+#html {
     background: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     padding: 100px;
 }
@@ -60,9 +60,9 @@ html {
 }
 
 #p2 {
-    position: absolute;
+    position: relative;
     right: 100px;
-    bottom: 0px;
+    bottom: 500px;
     left: 1100px;
     width: 15px;
     height: auto;
