@@ -1,4 +1,6 @@
 html {
+    
+    background-image: gif('background.jpg');
     background-color: lightblue;
     color: black;
     padding: 50px;
