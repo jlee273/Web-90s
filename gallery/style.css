@@ -80,22 +80,21 @@ html {
     
 }
 
-#p5{
+#p5 {
     position: absolute;
     right: 100px;
     top: 10px;
     left: 900px;
     width: auto;
-    height:auto;
+    height: auto;
 }
 
-#p6{ 
+#p6 { 
     position: relative;
     bottom: -700px;
     left: 900px;
     width: auto;
     height: auto;
-
 }
 
 #p4 {
@@ -105,5 +104,5 @@ html {
     padding: 20px;
     bottom: -200px;
     width: 100%;
-    position: absolute;
+    position: fixed;
 }
