@@ -39,7 +39,7 @@ html {
 #page-title {
     text-align: top, right;
     font-family: 'Luminari', fantasy;
-    font-size: 30px;
+    font-size: 40px;
     top: 40px;
     padding: 50px;
     color: black;
@@ -55,7 +55,7 @@ html {
 #text {
     text-align: left, top;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 15px;
     color: white;
     position: absolute;
     padding: 40px;
