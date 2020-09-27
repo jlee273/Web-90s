@@ -1,5 +1,5 @@
 html {
-    background-image: url(background.jpg)
+    background-image: gif('background.jpg');
     color: black;
     padding: 50px;
 }
@@ -63,7 +63,7 @@ html {
 #p2 {
     position: absolute;
     bottom: 100px;
-    right: 16px;
+    left: 1100px;
     padding: 250px;
     margin: 250px;
     position: absolute;
@@ -73,8 +73,8 @@ html {
 
 #p3 {
    position: absolute;
-   bottom: 8px;
-   right: 16px;
+   top: 50px
+   left: 1100px;
 }
 
 #p4 {
