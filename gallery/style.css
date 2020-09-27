@@ -81,9 +81,9 @@ div {
 }
 
 #p4 {
-    text-align: center;
+    top: 10px;
     padding: 20px;
-    bottom: 0;
+    bottom: -200px;
     width: 100%;
     position: fixed;
 }
