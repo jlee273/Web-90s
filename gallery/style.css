@@ -38,6 +38,7 @@ body {
     text-align: top, right;
     font-family: 'Luminari', fantasy;
     font-size: 50px;
+    top: 40px;
     padding: 50px;
     color: black;
 }
