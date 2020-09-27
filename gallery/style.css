@@ -1,5 +1,5 @@
 html {
-    background-image: gif('background.jpg');
+    background-image:("gif/background.jpg");
     color: black;
     padding: 50px;
 }
