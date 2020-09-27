@@ -63,7 +63,7 @@ html {
 #p2 {
     position: absolute;
     text-align: end;
-    bottom: 0px;
+    bottom: -100px;
     left: 1100px;
     max-width: 10%;
     
@@ -77,8 +77,9 @@ html {
 }
 
 #p4 {
-    padding: 0px;
-    margin: 30px;
+    text-align: end;
+    padding: 100px;
+    margin: 100px;
     position: absolite;
     width: 50px;
     left: 0px;
