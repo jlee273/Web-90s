@@ -61,11 +61,9 @@ html {
 
 #p2 {
     position: absolute;
-    bottom: 100px;
+    text-align: end;
+    bottom: 0px;
     left: 1100px;
-    padding: 250px;
-    margin: 250px;
-    position: absolute;
     max-width: 10%;
     
 }
