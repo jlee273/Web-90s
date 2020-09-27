@@ -70,6 +70,8 @@ html {
 }
 
 #p3 {
+    width: 10px;
+    height: 10px;
     position: absolute;
     left: 700px;
     bottom: 0px;
