@@ -25,6 +25,16 @@ html {
 
 }
 
+#button {
+    width: 50px;
+    height: 100%;
+    border: 0px;
+    background: #1b5ac2;
+    outline: none;
+    float: right;
+    color: #ffffff;
+}
+
 #page-title {
     text-align: top, right;
     font-family: 'Luminari', fantasy;
