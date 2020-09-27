@@ -1,6 +1,7 @@
 #html {
-    background: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background color: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     padding: 100px;
+    position: absolute;
 }
 
 
@@ -62,9 +63,9 @@
 #p2 {
     position: relative;
     right: 100px;
-    bottom: 500px;
+    bottom: -500px;
     left: 1100px;
-    width: 15px;
+    width: auto;
     height: auto;
     
 }
