@@ -11,6 +11,20 @@ html {
     display: flex;
   }
 
+  .text {
+      height: 40ox;
+      width: 400px;
+      border: 1px solid #1b5ac2;
+      backgorund: #ffffff;
+  }
+
+#placeholder {
+    color: grey;
+    font-size: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
 #page-title {
     text-align: top, right;
     font-family: 'Luminari', fantasy;
