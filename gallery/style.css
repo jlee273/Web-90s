@@ -1,4 +1,4 @@
-.html {
+body {
     background-color: blue;
     background: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     padding: 100px;
@@ -50,11 +50,12 @@
     left: 0px;
     padding: 10px;
 }
+
 #text {
-    text-align: center;
+    text-align: left, top;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    color: white;
+    color: black;
     position: absolute;
     padding: 40px;
 }
@@ -79,11 +80,12 @@
 }
 
 #p3 {
-    width: 10px;
+    position: relative;
+    right: 100px;
+    bottom: -800px;
+    left: 1100px;
+    width: auto;
     height: auto;
-    position: absolute;
-    left: 700px;
-    bottom: 0px;
 
 }
 
