@@ -10,17 +10,17 @@ html {
     display: flex;
   }
 
-  .text {
+.text {
       height: 40ox;
       width: 400px;
-      border: 1px solid #1b5ac2;
+      border: 1px solid black;
       background: #ffffff;
   }
 
 #placeholder {
     color: grey;
     font-size: 10px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
 
 }
 
@@ -43,7 +43,7 @@ html {
 }
 
 #text {
-    text-align: right;
+    text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     color: white;
