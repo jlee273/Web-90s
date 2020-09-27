@@ -71,7 +71,7 @@ html {
 }
 
 #p2 {
-    position: relative;
+    position: absolute;
     right: 100px;
     bottom: -500px;
     left: 900px;
@@ -90,7 +90,7 @@ html {
 }
 
 #p6 { 
-    position: relative;
+    position: absolute;
     bottom: -700px;
     left: 900px;
     width: auto;
