@@ -1,5 +1,6 @@
-#html {
+div {
     background-color: linear-Gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background-image: gif('disney.png');
     padding: 100px;
     position: absolute;
 }
