@@ -18,6 +18,7 @@ html {
   }
 
 #placeholder {
+    text-align: top, left;
     color: grey;
     font-size: 10px;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
@@ -37,12 +38,16 @@ html {
 #page-title {
     text-align: top, right;
     font-family: 'Luminari', fantasy;
-    font-size: 50px;
+    font-size: 30px;
     top: 40px;
     padding: 50px;
     color: black;
 }
 
+#audio {
+    text-align: top, left;
+    padding: 10px;
+}
 #text {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
