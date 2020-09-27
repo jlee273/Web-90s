@@ -63,15 +63,16 @@ html {
 #p2 {
     position: absolute;
     right: 100px;
-    bottom: -100px;
+    bottom: 0px;
     left: 1100px;
-    max-width: 10%;
+    width: 15px;
+    height: auto;
     
 }
 
 #p3 {
     width: 10px;
-    height: 10px;
+    height: auto;
     position: absolute;
     left: 700px;
     bottom: 0px;
